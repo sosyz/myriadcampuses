@@ -6,11 +6,11 @@
 
 ## 使用方法
 
-0️⃣ 安装python3到电脑/服务器
+0️⃣ 安装python3到电脑/服务器 （搜索关键词：python3 安装）
 
 1️⃣ [点击下载](https://github.com/sosyz/myriadcampuses/archive/1.0.zip)将文件保存到电脑或服务器
 
-2️⃣ 打开 *<u>院校通打卡脚本.py</u>* 文件，编辑 phone password lifeInfo 三个内容，例如
+2️⃣ 通过文本编辑器打开 *<u>院校通打卡脚本.py</u>* 文件，编辑 phone password lifeInfo 三个内容，例如
 
 ```python
 #以下三个自己填
@@ -21,6 +21,6 @@ lifeInfo = ["内蒙古", "呼和浩特市", "玉泉区"] #所在地点 注意按
 
 3️⃣ 保存更改
 
-4️⃣ 添加定时任务
+4️⃣ 添加定时任务（搜索关键词：win linux 定时任务）
 
 5️⃣ 如果需要微信通知，可以使用Server酱服务，[官网](http://sc.ftqq.com/)
